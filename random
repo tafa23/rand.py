@@ -1,0 +1,7 @@
+from random import randint
+s = randint(2,20)
+    if s == 14:
+print('you got it')
+else:
+	print(s)
+s += 1
